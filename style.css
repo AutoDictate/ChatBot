@@ -192,8 +192,10 @@ body{
     }
     .chatbot header span{
         display: block;
+        position: fixed;
     }
     .chatbot .close-btn{
+        display: block;
         margin-top: -4%;
         margin-right: 9px;
         color: #fff;
